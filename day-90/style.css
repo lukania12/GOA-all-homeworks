@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(41, 40, 40);
+}
+
+.nav{
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    height: 300px;
+    gap: 50px;
+    background-color: rgb(24, 26, 35);
+}
